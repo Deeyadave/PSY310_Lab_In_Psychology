@@ -1,0 +1,5 @@
+flanker,correctAns,condition
+<<<<<,left,congruent
+>>>>>,right,congruent
+<<><<,right,incongruent
+>><>>,left,incongruent
